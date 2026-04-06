@@ -57,6 +57,7 @@ Architecture:
 
 <img width="1297" height="495" alt="architecture of pis" src="https://github.com/user-attachments/assets/7d9f02d5-8ddb-41c0-9b45-d41c317204ab" />
 
+
 The system is responsible for:
 Managing payment requests
 Securing communication using HMAC
