@@ -13,7 +13,7 @@ UPI apps (PhonePe, Google Pay, etc.)
 Card networks like Visa
 Payment gateways and providers
 
-** Core Challenge**
+**Core Challenge**
 
 From a merchant’s perspective, integrating all these payment methods is not just a technical problem.
 
@@ -28,7 +28,7 @@ Time-consuming
 Complex
 Distracts the merchant from their core business
 
-** Existing Solution in Industry**
+**Existing Solution in Industry**
 
 To solve this, Payment Service Providers (PSPs) have emerged, such as:
 
@@ -47,7 +47,7 @@ Security validation
 Transaction management
 Business-specific logic
 
-** Problem This Project Solves**
+**Problem This Project Solves**
 
 This project introduces a Payment Integration System that acts as a bridge between:
 
@@ -59,6 +59,9 @@ Securing communication using HMAC
 Applying validation and fraud detection logic
 Handling interactions with the PSP
 
+*
+*
+*
 **System Design Approach**
 
 To integrate a payment provider like Stripe, the development team must first understand the provider’s APIs, workflows, and integration requirements.
@@ -81,6 +84,7 @@ This leads to:
  Tight coupling between merchant system and PSPs
 
 **Key Challenges Identified**
+
 Scalability Issue
 Adding new PSPs requires new services and changes in the merchant system
 Lack of Standardization
@@ -106,6 +110,7 @@ Ensure secure communication (HMAC, validation)
 Abstract PSP-specific complexity
 
 **Final Architecture Idea**
+
 Instead of:
 Merchant → Multiple PSP Services 
 We design:
