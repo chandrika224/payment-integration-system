@@ -59,13 +59,6 @@ Securing communication using HMAC
 Applying validation and fraud detection logic
 Handling interactions with the PSP
 
-*
-*
-*
-**System Design Approach**
-
-To integrate a payment provider like Stripe, the development team must first understand the provider’s APIs, workflows, and integration requirements.
-
 In a typical merchant application, the system is often built using a microservices architecture, where each service handles a specific business function.
 
 Problem with Direct Integration
