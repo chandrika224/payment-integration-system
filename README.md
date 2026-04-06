@@ -1,3 +1,5 @@
+<img width="1262" height="515" alt="Screenshot 2026-04-06 134205" src="https://github.com/user-attachments/assets/88fecc85-d67b-493b-8e89-a0f31f211188" />
+<img width="1262" height="515" alt="Screenshot 2026-04-06 134205" src="https://github.com/user-attachments/assets/65f273ba-47e6-4c29-8ed6-ff1eca83dc21" />
 **Problem Statement**
 
 In modern e-commerce or merchant applications (such as local mart websites), users need to make payments to complete purchases.
