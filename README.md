@@ -53,6 +53,10 @@ This project introduces a Payment Integration System that acts as a bridge betwe
 
 Merchant System <-> PSP (e.g., Stripe)
 
+Architecture:
+
+<img width="1297" height="495" alt="architecture of pis" src="https://github.com/user-attachments/assets/7d9f02d5-8ddb-41c0-9b45-d41c317204ab" />
+
 The system is responsible for:
 Managing payment requests
 Securing communication using HMAC
@@ -60,4 +64,3 @@ Applying validation and fraud detection logic
 Handling interactions with the PSP
 
 
-<img width="1262" height="515" alt="Screenshot 2026-04-06 134205" src="https://github.com/user-attachments/assets/65f273ba-47e6-4c29-8ed6-ff1eca83dc21" />
