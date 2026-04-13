@@ -109,12 +109,6 @@ Merchant → Multiple PSP Services
 We design:
 Merchant → Payment Integration System → Multiple PSPs 
 
-
-
-<img width="1297" height="495" alt="architecture of pis" src="https://github.com/user-attachments/assets/7d9f02d5-8ddb-41c0-9b45-d41c317204ab" />
-
-
-
 **Benefits of This Design**
 
  Reduced complexity in merchant system
