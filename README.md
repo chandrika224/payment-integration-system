@@ -54,7 +54,7 @@ Instead of allowing the merchant system to communicate directly with each paymen
 ![Functional Flow](screenshots/stripe%20functional%20flow.png)
 
 📄 **Detailed Functional Flow Document:**  
-[View Functional Flow PDF](docs/architecture/Functional%20flow%20of%20Stripe(2).pdf)
+[View Functional Flow PDF](docs/architecture/Functional%20flow%20of%20Stripe.pdf)
 
 # Why this project?
 
