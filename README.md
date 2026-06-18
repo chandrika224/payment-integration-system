@@ -43,18 +43,18 @@ Instead of allowing the merchant system to communicate directly with each paymen
 
 # System Architecture
 
-For the detailed architecture document, see:
+![System Architecture](screenshots/architecture%20of%20pis.png)
 
-docs/system-architecture.pdf
-screenshots/architecture of pis.png
+📄 **Detailed Architecture Document:**  
+[View System Architecture PDF](docs/system%20architecture.pdf)
 
 
 # Functional Flow
 
-For the detailed functional flow document, see:
+![Functional Flow](screenshots/stripe%20functional%20flow.png)
 
-docs/functional-flow.pdf
-screenshots/stripe functional flow.png
+📄 **Detailed Functional Flow Document:**  
+[View Functional Flow PDF](docs/Functional%20flow%20of%20Stripe.pdf)
 
 # Why this project?
 
