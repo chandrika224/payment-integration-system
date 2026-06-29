@@ -26,13 +26,13 @@ This evaluation provided a clear understanding of Stripe's payment lifecycle bef
 
 ![Stripe Create Session API](screenshots/stripe-create-session-api.png)
 
-### Stripe Hosted Checkout
+### Stripe Hosted Checkout Payment Page
 
-![Stripe Hosted Checkout](screenshots/stripe-hosted-checkout-page.png)
+![Stripe Hosted Checkout](screenshots/hosted payment page.png)
 
-### Payment Success
+### Redirected Merchant Page
 
-![Payment Success](screenshots/payment-success.png)
+![Payment Success](screenshots/redirected merchant page.png)
 
 ### Stripe Dashboard
 
