@@ -24,20 +24,20 @@ This evaluation provided a clear understanding of Stripe's payment lifecycle bef
 ### Stripe Checkout Session API
 
 
-![Stripe Create Session API](screenshots/stripe-create-session-api.png)
+![Stripe Create Session API](screenshots/postman/stripe-create-session-api.png)
 
 ### Stripe Hosted Checkout Payment Page
 
-![Stripe Hosted Checkout](screenshots/hosted-payment-page.png)
+![Stripe Hosted Checkout](screenshots/postman/hosted-payment-page.png)
 
 ### Redirected Merchant Page
 
-![Payment Success](screenshots/redirected-merchant-page.png)
+![Payment Success](screenshots/postman/redirected-merchant-page.png)
 
 ### Stripe Dashboard
 
-![Stripe Dashboard](screenshots/stripe-dashboard-payment.png)
+![Stripe Dashboard](screenshots/postman/stripe-dashboard-payment.png)
 
 ### Stripe CLI Webhook Testing
 
-![Stripe CLI](screenshots/stripe-cli-webhook.png)
+![Stripe CLI](screenshots/postman/stripe-cli-webhook.png)
