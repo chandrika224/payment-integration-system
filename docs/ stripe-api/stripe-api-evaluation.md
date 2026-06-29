@@ -28,11 +28,11 @@ This evaluation provided a clear understanding of Stripe's payment lifecycle bef
 
 ### Stripe Hosted Checkout Payment Page
 
-![Stripe Hosted Checkout](screenshots/hosted payment page.png)
+![Stripe Hosted Checkout](screenshots/hosted-payment-page.png)
 
 ### Redirected Merchant Page
 
-![Payment Success](screenshots/redirected merchant page.png)
+![Payment Success](screenshots/redirected-merchant-page.png)
 
 ### Stripe Dashboard
 
